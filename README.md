@@ -14,5 +14,5 @@ senhas fortes de acordo com a recomendacao da politica de senha
 - A tecnologia usada nesta aplicacao foi JAVA
 - A IDE utilizada foi o Intelij
 
-3- A questao3 nao houve tempo habil para pesquisar e contruir um
+3- A questao3 nao houve tempo habil para pesquisar e construir um
 algoritimo para resolver o problema proposto.
