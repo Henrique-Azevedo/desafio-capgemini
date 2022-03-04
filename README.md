@@ -14,5 +14,9 @@ senhas fortes de acordo com a recomendacao da politica de senha
 - A tecnologia usada nesta aplicacao foi JAVA
 - A IDE utilizada foi o Intelij
 
-3- A questao3 ainda nao houve tempo habil para pesquisar e construir um
-algoritimo para resolver o problema proposto.
+3- Na questao3 o usuario deve digitar uma palavra e o sistema irá retornar 
+a quantidade de pares de anagramas possíveis a partir da divisão da mesma 
+em várias outras.
+
+- A tecnologia usada nesta aplicacao foi JAVA
+- A IDE utilizada foi o Intelij
